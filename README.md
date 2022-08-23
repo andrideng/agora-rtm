@@ -50,6 +50,11 @@ To build and run the sample application, get an App ID:
 3. Your default browser should open and display the sample application, as shown here.
     **Note:** In some cases, you may need to open a browser and enter `http://localhost:8080` as the URL.
 
+## Token Builder
+```
+https://webdemo.agora.io/token-builder/
+```
+
 ## Resources
 
 - You can find full API document at [Document Center](https://docs.agora.io/en/)
